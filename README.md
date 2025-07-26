@@ -1,5 +1,5 @@
 # 💫 About Me:
-#👋 Hi, I’m Kumar Basu Singh<br><br>
+# 👋 Hi, I’m Kumar Basu Singh<br><br>
 🎓 Pursuing B.Tech in Electrical and Electronics Engineering (2022–2026) from G.L. Bajaj Institute of Technology and Management<br><br>🐍 Beginner in Python, learning through hands-on projects<br><br>🧠 Exploring NumPy,  Pandas and Data Visualization using Jupyter Notebook and PyCharm<br><br>🤖 Passionate about becoming a Generative AI Developer<br><br>💬 Actively using ChatGPT and other open-source AI tools to learn and experiment<br><br>🌱 Always eager to expand my knowledge through real-world projects<br><br>🚀 Self-motivated and dedicated to learning new skills and improving existing ones
 
 
