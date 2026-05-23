@@ -22,5 +22,5 @@ multi-agent AI systems using LLMs, LangGraph, and RAG pipelines.
 <img src="https://github-readme-stats.vercel.app/api?username=mr-basu-singh&show_icons=true&theme=tokyonight" />
 
 ## 📬 Let's connect
-💼 [LinkedIn]([https://linkedin.com/in/kumar-basu-singh-genai-engineer](https://www.linkedin.com/in/kumar-basu-singh/))
+💼 [LinkedIn]((https://www.linkedin.com/in/kumar-basu-singh/))
 📧 basueps@gmail.com | Open to Gen AI / Agentic AI Developer / AI Engineer roles
