@@ -15,8 +15,8 @@ multi-agent AI systems using LLMs, LangGraph, and RAG pipelines.
 ## 🚀 Featured projects
 | Project | Description | Live |
 |---------|-------------|------|
-| [AI Resume Matching Agent](link) | Multi-agent system that ranks resumes vs JD using RAG + FAISS | [Demo ↗](https://aicareermentoragent-2t243896yctlxcyvrvitqh.streamlit.app/) |
-| [AI Career Mentor](link) | LangGraph planner + research agent for personalised roadmaps | [Demo ↗](https://mr-basu-singh-ai-career-mentor-srcuiapp-kj4xec.streamlit.app/) |
+| [AI Resume Matching Agent](link) | Multi-agent system that ranks resumes vs JD using RAG + FAISS | [Demo ↗](https://mr-basu-singh-ai-resume-matching-agent-app-zrljfo.streamlit.app/) |
+| [AI Career Mentor](link) | LangGraph planner + research agent for personalised roadmaps | [Demo ↗](https://aicareermentoragent-2t243896yctlxcyvrvitqh.streamlit.app/) |
 
 ## 📊 GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=mr-basu-singh&show_icons=true&theme=tokyonight" />
