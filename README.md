@@ -1,9 +1,10 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Kumar%20Basu%20Singh&fontSize=40&fontAlignY=38&desc=Agentic%20AI%20Developer%20%7C%20LangGraph%20%7C%20RAG%20%7C%20Multi-Agent%20Systems&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Kumar%20Basu%20Singh&fontSize=40&fontAlignY=38&desc=AI%20Agent%20Engineer%20%7C%20LangGraph%20%7C%20RAG%20%7C%20Multi-Agent%20Systems&descAlignY=60" />
 
 ## 👋 About me
-B.Tech EEE '26 → Generative AI Engineer. I build production-ready
-multi-agent AI systems using LLMs, LangGraph, and RAG pipelines.
+B.Tech EEE '26 → AI Agent Engineer. I build production-ready
+AI Agent systems using LangChain, LangGraph, RAG pipelines, LLMs, APIs and Vector Store.
+Agent that can THINK, RESEARCH, WORK on its OWN.
 
 ## 🛠 Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
