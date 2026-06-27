@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Kumar%20Basu%20Singh&fontSize=40&fontAlignY=38&desc=AI%20Agent%20Engineer%20%7C%20LangGraph%20%7C%20LangChain%20%7C%20RAG%20%7C%20Multi-Agent%20%7C%20LLMs%20Systems&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Kumar%20Basu%20Singh&fontSize=40&fontAlignY=38&desc=AI%20Agent%20Engineer%20%7C%20LangGraph%20%7C%20LangChain%20%7C%20RAG%20%7C%20Multi-Agent%20%7C%20LLMs%20%7C%Systems&descAlignY=60" />
 
 ## 👋 About me
 B.Tech EEE '26 → AI Agent Engineer. I build production-ready
